@@ -13,5 +13,10 @@ This web application helps users predict multiple diseases based on input parame
 - **Backend:** Python, Scikit-learn  
 - **Frontend:** Streamlit  
 - **Data Processing:** Pandas, NumPy  
+# The web application looks like:
+![image alt](https://github.com/Kasireddynanda/Multiple-Disease-Prediction/blob/59e82192c3d745ae8bcb2c2fd80ab79d250820df/multi2.jpeg)
 
+# works:
+![image alt](https://github.com/Kasireddynanda/Multiple-Disease-Prediction/blob/59e82192c3d745ae8bcb2c2fd80ab79d250820df/multi.jpeg)
 
+ # This web application helps users predict multiple diseases based on input parameters using machine learning models
